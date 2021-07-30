@@ -1,0 +1,23 @@
+body{
+	
+}
+
+.primary-color{
+	background: #311b92!important;	
+}
+.imagess{
+	float: right;
+}
+
+
+
+.admin .card{
+	border: 1px solid #fff;
+}
+
+
+
+.admin .card:hover{
+	background:#cf2e2e;
+	cursor:pointer;
+}
